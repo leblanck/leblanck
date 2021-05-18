@@ -1,16 +1,21 @@
-### Hi there 👋
+<pre>
+   __ __  ____   _______  __   ___   _  _______
+  / /_\ \/ / /  / __/ _ )/ /  / _ | / |/ / ___/
+ /  '_/\  / /__/ _// _  / /__/ __ |/    / /__  
+/_/\_\ /_/____/___/____/____/_/ |_/_/|_/\___/  
+                                                                                    
+</pre>
 
-<!--
-**leblanck/leblanck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+~ $ curl kyleblanc.dev/me/
 
-Here are some ideas to get you started:
+{
+  "Name 😎": "Kyle LeBlanc",
+  "Bio 🤗": "Sr Mac System Engineer",
+  "Website 🖱": "https://leblanc.sh",
+  "Twitter 🐦": "@kyleblanc",
+  "LinkedIn 📎": "https://www.linkedin.com/in/leblanck/"
+}
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
