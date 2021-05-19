@@ -8,7 +8,6 @@
 
 <pre>
 ~ $ curl kyleblanc.dev/me/
-
 {
   "Name 😎": "Kyle LeBlanc",
   "Bio 🤗": "Sr Mac System Engineer",
