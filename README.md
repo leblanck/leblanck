@@ -19,5 +19,4 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://www.buymeacoffee.com/kyleblanc)
 
-<!--- ASCII https://patorjk.com/software/taag/#p=display&f=Small%20Slant&t=kYLEBLANC --->
-<!--- BADGES https://forthebadge.com --->
+[![@kyleblanc's Holopin board](https://holopin.me/kyleblanc)](https://holopin.io/@kyleblanc)
