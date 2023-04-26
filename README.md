@@ -10,7 +10,7 @@
 ~ $ curl kyleblanc.dev/me/
 {
   "Name 😎": "Kyle LeBlanc",
-  "Bio 🤗": "Sr Mac System Engineer",
+  "Bio 🤗": "Sr Infrastructure Engineer",
   "Website 🖱": "https://leblanc.sh",
   "Twitter 🐦": "@kyleblanc",
   "LinkedIn 📎": "https://www.linkedin.com/in/leblanck/"
