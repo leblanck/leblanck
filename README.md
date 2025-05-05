@@ -19,4 +19,4 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://www.buymeacoffee.com/kyleblanc)
 
-[![@kyleblanc's Holopin board](https://holopin.me/kyleblanc)](https://holopin.io/@kyleblanc)
+<!-- [![@kyleblanc's Holopin board](https://holopin.me/kyleblanc)](https://holopin.io/@kyleblanc) -->
