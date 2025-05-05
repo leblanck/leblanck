@@ -7,7 +7,7 @@
 </pre> -->
 
 <pre>
-~ $ curl kyleblanc.dev/me/
+~ $ curl -L leblanc.sh/me/
 {
   "Name 😎": "Kyle LeBlanc",
   "Bio 🤗": "Sr Infrastructure Engineer",
